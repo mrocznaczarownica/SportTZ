@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049620369015",
+    "project_id": "sporttz",
+    "storage_bucket": "sporttz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049620369015:android:b2ce5c66ed51f891d1c072",
+        "android_client_info": {
+          "package_name": "com.example.sporttz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049620369015-3mg88vtb9cboiof65d91m3fa89e392ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJ7UzJqmsljZXWxWwdWp38f5_tXkUIf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049620369015-3mg88vtb9cboiof65d91m3fa89e392ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
